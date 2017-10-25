@@ -3,6 +3,7 @@
 - hosts: localhost
   connection: local
 
-  roles: []
+  roles:
+    - IanTaylorFB.superlinux-python
 
   vars: []
