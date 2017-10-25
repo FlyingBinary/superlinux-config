@@ -1,1 +1,5 @@
 ---
+
+- src: https://github.com/FlyingBinary/ansible-role-python.git
+  name: IanTaylorFB.superlinux-python
+  version: fbmaster
